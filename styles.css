@@ -16,3 +16,10 @@ body {
 img {
     width: 1000px;
 }
+
+@media (max-width: 900px){
+    img {
+        width: 400px;
+    }
+
+}
